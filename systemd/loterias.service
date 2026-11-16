@@ -1,0 +1,14 @@
+[Unit]
+Description=Loterias (LotoAtlas) Web Service
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/umbrel/loterias
+ExecStart=/usr/local/bin/npx serve -s dist -l 8090
+Restart=always
+RestartSec=5
+Environment=PATH=/usr/local/bin:/usr/bin:/bin
+
+[Install]
+WantedBy=default.target

@@ -1,0 +1,10 @@
+[Unit]
+Description=Timer to check Loterias updates from GitHub
+
+[Timer]
+OnBootSec=1min
+OnUnitActiveSec=5min
+Unit=loterias-updater.service
+
+[Install]
+WantedBy=timers.target

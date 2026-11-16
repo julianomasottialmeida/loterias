@@ -1,0 +1,6 @@
+[Unit]
+Description=Check and auto-update Loterias from GitHub
+
+[Service]
+Type=oneshot
+ExecStart=/home/umbrel/loterias/auto-update.sh
