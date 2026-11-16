@@ -1,0 +1,7 @@
+services:
+  loterias_web:
+    build: .
+    container_name: loterias_web
+    restart: unless-stopped
+    ports:
+      - "8090:80"
