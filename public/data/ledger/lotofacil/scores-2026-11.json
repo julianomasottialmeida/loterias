@@ -942,7 +942,6 @@
       "targetContest": 3839,
       "strategyId": "lotofacil.rms_v2",
       "strategyVersion": "2.1.0",
-      "scoredAt": "2026-11-27T18:20:46.001Z",
       "valid": true,
       "hitsPerTicket": [
         10,
@@ -953,13 +952,13 @@
         8
       ],
       "bestHits": 13,
+      "scoredAt": "2026-11-27T18:20:46.001Z",
       "resultNumbersSha256": "da6e783ee356b4c8ed7554f9483dfcac72a50aacc17580a92acf1e5fa30a857b"
     },
     {
       "targetContest": 3839,
       "strategyId": "lotofacil.max_diversification",
       "strategyVersion": "1.0.0",
-      "scoredAt": "2026-11-27T18:20:46.001Z",
       "valid": true,
       "hitsPerTicket": [
         8,
@@ -970,13 +969,13 @@
         6
       ],
       "bestHits": 11,
+      "scoredAt": "2026-11-27T18:20:46.001Z",
       "resultNumbersSha256": "da6e783ee356b4c8ed7554f9483dfcac72a50aacc17580a92acf1e5fa30a857b"
     },
     {
       "targetContest": 3839,
       "strategyId": "lotofacil.max_coverage_11",
       "strategyVersion": "1.0.0",
-      "scoredAt": "2026-11-27T18:20:46.001Z",
       "valid": true,
       "hitsPerTicket": [
         9,
@@ -987,13 +986,13 @@
         10
       ],
       "bestHits": 11,
+      "scoredAt": "2026-11-27T18:20:46.001Z",
       "resultNumbersSha256": "da6e783ee356b4c8ed7554f9483dfcac72a50aacc17580a92acf1e5fa30a857b"
     },
     {
       "targetContest": 3839,
       "strategyId": "lotofacil.max_coverage_12",
       "strategyVersion": "1.0.0",
-      "scoredAt": "2026-11-27T18:20:46.001Z",
       "valid": true,
       "hitsPerTicket": [
         10,
@@ -1004,13 +1003,13 @@
         8
       ],
       "bestHits": 10,
+      "scoredAt": "2026-11-27T18:20:46.001Z",
       "resultNumbersSha256": "da6e783ee356b4c8ed7554f9483dfcac72a50aacc17580a92acf1e5fa30a857b"
     },
     {
       "targetContest": 3839,
       "strategyId": "lotofacil.uniform_random",
       "strategyVersion": "1.0.0",
-      "scoredAt": "2026-11-27T18:20:46.001Z",
       "valid": true,
       "hitsPerTicket": [
         10,
@@ -1021,7 +1020,93 @@
         10
       ],
       "bestHits": 10,
+      "scoredAt": "2026-11-27T18:20:46.001Z",
       "resultNumbersSha256": "da6e783ee356b4c8ed7554f9483dfcac72a50aacc17580a92acf1e5fa30a857b"
+    },
+    {
+      "targetContest": 3840,
+      "strategyId": "lotofacil.rms_v2",
+      "strategyVersion": "2.1.0",
+      "scoredAt": "2026-11-28T17:03:39.260Z",
+      "valid": true,
+      "hitsPerTicket": [
+        10,
+        7,
+        10,
+        8,
+        8,
+        9
+      ],
+      "bestHits": 10,
+      "resultNumbersSha256": "b0381b7ad4067de5737702dec1bfabd9c6e76a741009dd4819c3b6f142552928"
+    },
+    {
+      "targetContest": 3840,
+      "strategyId": "lotofacil.max_diversification",
+      "strategyVersion": "1.0.0",
+      "scoredAt": "2026-11-28T17:03:39.260Z",
+      "valid": true,
+      "hitsPerTicket": [
+        9,
+        9,
+        8,
+        11,
+        9,
+        10
+      ],
+      "bestHits": 11,
+      "resultNumbersSha256": "b0381b7ad4067de5737702dec1bfabd9c6e76a741009dd4819c3b6f142552928"
+    },
+    {
+      "targetContest": 3840,
+      "strategyId": "lotofacil.max_coverage_11",
+      "strategyVersion": "1.0.0",
+      "scoredAt": "2026-11-28T17:03:39.260Z",
+      "valid": true,
+      "hitsPerTicket": [
+        11,
+        8,
+        12,
+        7,
+        9,
+        7
+      ],
+      "bestHits": 12,
+      "resultNumbersSha256": "b0381b7ad4067de5737702dec1bfabd9c6e76a741009dd4819c3b6f142552928"
+    },
+    {
+      "targetContest": 3840,
+      "strategyId": "lotofacil.max_coverage_12",
+      "strategyVersion": "1.0.0",
+      "scoredAt": "2026-11-28T17:03:39.260Z",
+      "valid": true,
+      "hitsPerTicket": [
+        10,
+        9,
+        11,
+        9,
+        10,
+        8
+      ],
+      "bestHits": 11,
+      "resultNumbersSha256": "b0381b7ad4067de5737702dec1bfabd9c6e76a741009dd4819c3b6f142552928"
+    },
+    {
+      "targetContest": 3840,
+      "strategyId": "lotofacil.uniform_random",
+      "strategyVersion": "1.0.0",
+      "scoredAt": "2026-11-28T17:03:39.260Z",
+      "valid": true,
+      "hitsPerTicket": [
+        6,
+        6,
+        7,
+        8,
+        7,
+        10
+      ],
+      "bestHits": 10,
+      "resultNumbersSha256": "b0381b7ad4067de5737702dec1bfabd9c6e76a741009dd4819c3b6f142552928"
     }
   ]
 }
